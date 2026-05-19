@@ -1,2 +1,2 @@
 # KStream
-KStream is a runtime-aware key grouping scheme for distributed stream processing system
+KStream is a load-aware key grouping scheme for distributed stream processing system
